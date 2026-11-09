@@ -1,0 +1,11 @@
+{
+  "python_command": "",
+  "codex_command": "",
+  "codex_model": "",
+  "include_codex_history": false,
+  "document_provider": "local",
+  "mineru_script": "",
+  "tingwu_script": "",
+  "whisper_model": "mlx-community/whisper-large-v3-turbo",
+  "whisper_initial_prompt": ""
+}

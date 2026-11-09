@@ -1,0 +1,9 @@
+{
+  "id": "workbench-word-preview",
+  "name": "Word 预览 · 工作台",
+  "version": "0.1.0",
+  "minAppVersion": "1.8.10",
+  "description": "在 Obsidian 桌面端通过本机 Microsoft Word 预览 DOC/DOCX。转换在本机完成，仅支持 macOS。",
+  "author": "Jiale077",
+  "isDesktopOnly": true
+}
